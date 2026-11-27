@@ -1,0 +1,24 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\Gila\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.21.2
+2 info using node@v22.22.1
+3 silly config load:file:C:\Users\Gila\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Gila\LifeLedger\.npmrc
+5 silly config load:file:C:\Users\Gila\.npmrc
+6 silly config load:file:C:\Users\Gila\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec @playwright/mcp@latest --browser chrome --output-dir C:\Users\Gila\AppData\Local\Temp\kilo-playwright-mcp
+8 verbose argv "exec" "--" "@playwright/mcp@latest" "--browser" "chrome" "--output-dir" "C:\\Users\\Gila\\AppData\\Local\\Temp\\kilo-playwright-mcp"
+9 verbose logfile logs-max:10 dir:C:\Users\Gila\LifeLedger\.npm-cache\_logs\2026-11-27T02_18_02_692Z-
+10 verbose logfile C:\Users\Gila\LifeLedger\.npm-cache\_logs\2026-11-27T02_18_02_692Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+14 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules/next
+15 http fetch GET 200 https://registry.npmjs.org/@playwright%2fmcp 2725ms (cache revalidated)
+16 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+17 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+18 verbose cwd C:\Users\Gila\LifeLedger
+19 verbose os Windows_NT 10.0.26300
+20 verbose node v22.22.1
+21 verbose npm  v11.21.2
+22 verbose exit 0
+23 info ok
